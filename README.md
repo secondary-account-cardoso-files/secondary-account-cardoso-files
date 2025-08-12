@@ -23,7 +23,7 @@ Abaixo, a matriz curricular do curso, organizada por período, com possibilidade
 | Período  | Disciplinas                                                                                              | Projetos / Atividades Principais |
 | -------- | -------------------------------------------------------------------------------------------------------- | --------------------------------- |
 | **1º**   | Ciências Exatas e Tecnologias, Gestão da Inovação Tecnológica, Laboratório de Computação Aplicada, Lógica de Programação e Algoritmos I, Organização e Arquitetura de Computadores | [Projeto Lógica I](#), [Organização de Computadores](#) |
-| **2º**   | Linguagens e Pesquisa, Lógica de Programação e Algoritmos II, Engenharia de Software, Programação para Internet, Redes de Computadores | [POO & Web](#), [Projeto Redes](#) |
+| **2º**   | Linguagens e Pesquisa, Lógica de Programação e Algoritmos II, Engenharia de Software, Programação para Internet, Redes de Computadores | [software engineering](https://github.com/secondary-account-cardoso-files/software-engineering-course), [Projeto Redes](#) |
 | **3º**   | Homem, Cultura e Sociedade, Banco de Dados, Estruturas de Dados, Análise de Sistemas I, Linguagem de Programação Orientada a Objetos | [Modelagem de BD](#), [Estruturas de Dados](#) |
 | **4º**   | Temas Transversais e Atualidades, Segurança e Auditoria de Sistemas, Sistemas de Computação Móvel, Análise de Sistemas II, Sistemas de Apoio à Decisão e Governança | [Segurança da Informação](#), [Mobile](#) |
 | **5º**   | Inteligência Artificial, Gerenciamento de Projeto em Tecnologia, Sistemas Multimídias e Distribuídos, Tópicos Especiais em Sistemas de Informação | [IA Aplicada](#), [Cloud & Distribuídos](#) |
