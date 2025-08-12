@@ -16,29 +16,33 @@ Bem-vindo(a)! Este repositório reúne todos os projetos, exercícios e anotaç�
 
 ---
 
-## 🗺️ Matriz Curricular
+## 🗺️ Matriz Curricular — Análise e Desenvolvimento de Sistemas (UNITRI)
 
-Abaixo, a matriz curricular do curso, organizada por semestre, com links para os repositórios e projetos correspondentes:
+Abaixo, a matriz curricular do curso, organizada por período, com possibilidade de vincular aos repositórios/projetos relacionados:
 
-| Semestre | Disciplinas                                                                                      | Projetos/Atividades Principais                    |
-| -------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------- |
-| 1º       | Lógica de Programação, Algoritmos, Introdução à Computação, Matemática Básica                    | [Lógica de Programação](#), [Algoritmos](#)       |
-| 2º       | Programação Orientada a Objetos, Estruturas de Dados, Sistemas Operacionais, Matemática Discreta | [POO em Java](#), [Estruturas de Dados](#)        |
-| 3º       | Banco de Dados, Engenharia de Software, Redes de Computadores, Probabilidade e Estatística       | [Modelagem de BD](#), [Engenharia de Software](#) |
-| 4º       | Desenvolvimento Web, Programação Mobile, Análise de Sistemas, Segurança da Informação            | [Web Fullstack](#), [Apps Mobile](#)              |
-| 5º       | Projeto Integrador, Empreendedorismo, Computação em Nuvem, Tópicos Especiais em ADS              | [Projeto Integrador](#), [Cloud Computing](#)     |
-| 6º       | Estágio Supervisionado, Ética Profissional, Qualidade de Software, Inteligência Artificial       | [IA Aplicada](#), [Qualidade de Software](#)      |
+| Período  | Disciplinas                                                                                              | Projetos / Atividades Principais |
+| -------- | -------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| **1º**   | Ciências Exatas e Tecnologias, Gestão da Inovação Tecnológica, Laboratório de Computação Aplicada, Lógica de Programação e Algoritmos I, Organização e Arquitetura de Computadores | [Projeto Lógica I](#), [Organização de Computadores](#) |
+| **2º**   | Linguagens e Pesquisa, Lógica de Programação e Algoritmos II, Engenharia de Software, Programação para Internet, Redes de Computadores | [POO & Web](#), [Projeto Redes](#) |
+| **3º**   | Homem, Cultura e Sociedade, Banco de Dados, Estruturas de Dados, Análise de Sistemas I, Linguagem de Programação Orientada a Objetos | [Modelagem de BD](#), [Estruturas de Dados](#) |
+| **4º**   | Temas Transversais e Atualidades, Segurança e Auditoria de Sistemas, Sistemas de Computação Móvel, Análise de Sistemas II, Sistemas de Apoio à Decisão e Governança | [Segurança da Informação](#), [Mobile](#) |
+| **5º**   | Inteligência Artificial, Gerenciamento de Projeto em Tecnologia, Sistemas Multimídias e Distribuídos, Tópicos Especiais em Sistemas de Informação | [IA Aplicada](#), [Cloud & Distribuídos](#) |
+| **Facultativas** | Atividades Culturais e Científicas                                                                 | [Extensão](#) |
+| **Optativas**    | Ergonomia e Segurança do Trabalho, LIBRAS, Educação a Distância                                   | [Optativas](#) |
+
+📌 *Carga Horária Total*: **2.220h** (incluindo atividades complementares e estágio).
+
 
 > 🔗 _Os links serão atualizados conforme os projetos forem publicados._
 
 ---
 
-## 💡 Diferenciais
+## [💡 Diferenciais](https://github.com/SEU_USUARIO/SEU_REPOSITORIO)
 
-- **Projetos reais**: Aplicações desenvolvidas individualmente e em grupo, simulando demandas do mercado.
-- **Documentação completa**: Todos os repositórios possuem README detalhado e instruções de uso.
-- **Evolução contínua**: Atualizações frequentes acompanhando o progresso no curso.
-- **Compartilhamento de conhecimento**: Conteúdo aberto para consulta e colaboração.
+- **[Projetos reais](https://github.com/SEU_USUARIO?tab=repositories&q=projetos)**: Aplicações desenvolvidas individualmente e em grupo, simulando demandas do mercado.
+- **[Documentação completa](https://github.com/SEU_USUARIO?tab=repositories&q=readme)**: Todos os repositórios possuem README detalhado e instruções de uso.
+- **[Evolução contínua](https://github.com/SEU_USUARIO?tab=repositories&q=atualizacao)**: Atualizações frequentes acompanhando o progresso no curso.
+- **[Compartilhamento de conhecimento](https://github.com/SEU_USUARIO?tab=repositories&q=compartilhar)**: Conteúdo aberto para consulta e colaboração.
 
 <!-- ---
 
