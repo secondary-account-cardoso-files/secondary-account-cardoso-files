@@ -37,7 +37,7 @@ Abaixo, a matriz curricular do curso, organizada por período, com possibilidade
 
 ---
 
-## [💡 Diferenciais](https://github.com/SEU_USUARIO/SEU_REPOSITORIO)
+## 💡 Diferenciais
 
 - **[Projetos reais](https://github.com/SEU_USUARIO?tab=repositories&q=projetos)**: Aplicações desenvolvidas individualmente e em grupo, simulando demandas do mercado.
 - **[Documentação completa](https://github.com/SEU_USUARIO?tab=repositories&q=readme)**: Todos os repositórios possuem README detalhado e instruções de uso.
