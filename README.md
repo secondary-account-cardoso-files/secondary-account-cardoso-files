@@ -58,10 +58,23 @@ Abaixo, a matriz curricular do curso, organizada por período, com possibilidade
 
 ## 📫 Contato
 
-- Email: [cardosofiles@outlook.com](mailto:cardosofiles@outlook.com)
-- LinkedIn: [joaobatista-dev](https://www.linkedin.com/in/joaobatista-dev/)
-- GitHub: [Cardosofiles](https://github.com/Cardosofiles)
-- Portfólio: [cardosofiles.dev](https://cardosofiles.dev/)
+<div align="center">
+
+<a href="mailto:cardosofiles@outlook.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/joaobatista-dev/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Cardosofiles" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://cardosofiles.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio"/>
+</a>
+
+</div>
+
 
 ---
 
